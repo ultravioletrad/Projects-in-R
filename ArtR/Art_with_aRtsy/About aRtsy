@@ -1,0 +1,16 @@
+
+install.packages("aRtsy")
+library(aRtsy)
+
+#Github source
+https://koenderks.github.io/aRtsy/
+
+Derks, K. (2021). aRtsy: Generative Art with 'ggplot2'. R package version 0.1.7.
+citation:
+@Manual{,
+  title = {aRtsy: Generative Art with 'ggplot2'},
+  author = {Koen Derks},
+  year = {2021},
+  note = {R package version 0.1.7},
+  url = {https://CRAN.R-project.org/package=aRtsy},
+}
